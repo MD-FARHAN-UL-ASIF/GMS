@@ -1,0 +1,43 @@
+F:\sem xi\project\DAL\bin\Debug\DAL.dll.config
+F:\sem xi\project\DAL\bin\Debug\DAL.dll
+F:\sem xi\project\DAL\bin\Debug\DAL.pdb
+F:\sem xi\project\DAL\bin\Debug\EntityFramework.dll
+F:\sem xi\project\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\sem xi\project\DAL\bin\Debug\EntityFramework.xml
+F:\sem xi\project\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\sem xi\project\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\sem xi\project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\sem xi\project\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\sem xi\project\DAL\obj\Debug\DAL.dll
+F:\sem xi\project\DAL\obj\Debug\DAL.pdb
+F:\sem xi\project\DAL\obj\Debug\DAL.Migrations.farhan_m1.resources
+F:\sem xi\project\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+F:\sem xi\New folder\20-43522-1\DAL\bin\Debug\DAL.dll.config
+F:\sem xi\New folder\20-43522-1\DAL\bin\Debug\DAL.dll
+F:\sem xi\New folder\20-43522-1\DAL\bin\Debug\DAL.pdb
+F:\sem xi\New folder\20-43522-1\DAL\bin\Debug\EntityFramework.dll
+F:\sem xi\New folder\20-43522-1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\sem xi\New folder\20-43522-1\DAL\bin\Debug\EntityFramework.xml
+F:\sem xi\New folder\20-43522-1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\sem xi\New folder\20-43522-1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\sem xi\New folder\20-43522-1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\sem xi\New folder\20-43522-1\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\sem xi\New folder\20-43522-1\DAL\obj\Debug\DAL.dll
+F:\sem xi\New folder\20-43522-1\DAL\obj\Debug\DAL.pdb
+F:\sem xi\New folder\20-43522-1\DAL\obj\Debug\DAL.Migrations.fx.resources
+F:\sem xi\New folder\20-43522-1\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+F:\sem xi\New folder\20-43522-1\DAL\obj\Debug\DAL.Migrations.fxv1.resources
+F:\sem xi\New folder\20-43522-1\DAL\obj\Debug\DAL.Migrations.fxv2.resources
+F:\sem xi\New folder\20-43522-1\DAL\obj\Debug\DAL.Migrations.fxxv3.resources
+F:\sem xi\New folder\20-43522-1\DAL\obj\Debug\DAL.Migrations.fxv4.resources
+F:\sem xi\New folder\20-43522-1\DAL\obj\Debug\DAL.Migrations.fxxx.resources
+F:\sem xi\New folder\20-43522-1\DAL\obj\Debug\DAL.Migrations.empatt.resources
+F:\sem xi\New folder\20-43522-1\DAL\obj\Debug\DAL.Migrations.onemany.resources
+F:\sem xi\New folder\20-43522-1\DAL\bin\Debug\Newtonsoft.Json.dll
+F:\sem xi\New folder\20-43522-1\DAL\bin\Debug\Newtonsoft.Json.xml
+F:\sem xi\New folder\20-43522-1\DAL\obj\Debug\DAL.Migrations.giveUpNeeded.resources
+F:\sem xi\New folder\20-43522-1\DAL\obj\Debug\DAL.Migrations.fx_final.resources
+F:\sem xi\New folder\20-43522-1\DAL\obj\Debug\DAL.Migrations.fv.resources
+F:\sem xi\New folder\20-43522-1\DAL\obj\Debug\DAL.Migrations.leave.resources
+F:\sem xi\New folder\20-43522-1\DAL\obj\Debug\DAL.Migrations.leave_v2.resources
+F:\sem xi\New folder\20-43522-1\DAL\obj\Debug\DAL.Migrations.lifehell.resources

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html ng-app="my-app">
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+</head>
+<body>
+    <div ng-controller="employeeCtrl">
+        <h1>Employee List</h1>
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Username</th>
+                <th>Phone Number</th>
+                <th>Email</th>
+                <th>NID</th>
+                <th>Date of Birth</th>
+                <th>Gender</th>
+                <th>Address</th>
+                <th>Status</th>
+                <th>Image</th>
+                <th>Creation Date</th>
+                <th>User Type</th>
+                <th>Department</th>
+                <th>Salary</th>
+            </tr>
+            <tr ng-repeat="employee in employees">
+                <td>{{ employee.Id }}</td>
+                <td>{{ employee.Name }}</td>
+                <td>{{ employee.UserName }}</td>
+                <td>{{ employee.PhoneNumber }}</td>
+                <td>{{ employee.Email }}</td>
+                <td>{{ employee.NID }}</td>
+                <td>{{ employee.DOB | date:'yyyy-MM-dd' }}</td>
+                <td>{{ employee.Gender }}</td>
+                <td>{{ employee.Address }}</td>
+                <td>{{ employee.Status }}</td>
+                <td>{{ employee.Image }}</td>
+                <td>{{ employee.CreatedAt | date:'yyyy-MM-dd' }}</td>
+                <td>{{ employee.UserType }}</td>
+                <td>{{ employee.Department }}</td>
+                <td>{{ employee.Salary }}</td>
+            </tr>
+        </table>
+    </div>
+
+    <script>
+        var app = angular.module("my-app", []);
+
+        app.controller("employeeCtrl", function ($scope, $http) {
+            $http.get("https://localhost:44318/api/employee/all")
+            .then(function (response) {
+                $scope.employees = response.data;
+            })
+            .catch(function (error) {
+                console.error("Error fetching employee data:", error);
+            });
+        });
+    </script>
+</body>
+</html>
